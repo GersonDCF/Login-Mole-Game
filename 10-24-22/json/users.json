@@ -1,0 +1,7 @@
+{
+    "tabUsuarios": [
+    {"user":"user1", "psw":"123"},
+    {"user":"user2", "psw":"456"},
+    {"user":"user3", "psw":"789"}
+    ]
+}
